@@ -1,0 +1,23 @@
+
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+td{
+	font-weight:bold;
+	padding: .35em 4 .35em 25px;
+}
+
+
+  body {text-align:center;}
+  
+  
+a:hover {
+    color: black;
+}
+
+h1{
+	margin-left:auto; 
+    margin-right:auto;
+}
